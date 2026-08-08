@@ -1,7 +1,7 @@
 > Memorable developer positioning.
 
 ## Header
-Hi, I'm **RitikChawla197**. This README is tuned for **personal brand** with a GitHub visual system.
+Hi, I'm **RitikChawla197**.
 
 <p align="center">
   <img src="./ascii-portrait-animated.svg" alt="RitikChawla197 ASCII portrait" />
@@ -21,7 +21,6 @@ Animated year-long contribution calendar, rendered terminal-style.
 > ⚠️ Placeholder data for now — see setup note below to wire this up to your real GitHub contributions.
 
 ## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=RitikChawla197&theme=github-dark&mode=light" />
