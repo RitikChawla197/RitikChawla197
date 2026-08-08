@@ -1,9 +1,43 @@
-**👋 Hey there, I’m Ritik Chawla!**
+# RitikChawla197
 
-💻 I’m a Software Developer at Trident Techlabs Ltd., passionate about coding and building scalable web applications.
+> Memorable developer positioning.
 
-🔧 Skills: React.js, Tailwind CSS, API Integration, JavaScript, CSS, and more.
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-🌟 Recent Project: Tailwind-AdminPanel – a responsive admin dashboard built with React.js and Tailwind CSS.
+## Header
+> Editing this section in the inspector.
+Hi, I'm **RitikChawla197**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=RitikChawla197&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=RitikChawla197&theme=github-dark" alt="RitikChawla197 hero section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=RitikChawla197&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=RitikChawla197&theme=github-dark" alt="RitikChawla197 stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=RitikChawla197&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=RitikChawla197&theme=github-dark" alt="RitikChawla197 projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=RitikChawla197&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=RitikChawla197&theme=github-dark" alt="RitikChawla197 social section" />
+  </picture>
+</p>
 
-📫 Let’s Connect: https://www.linkedin.com/in/ritikchawla197/
+<!-- Sections: Header, Heatmap, GitHub Stats, Projects, Connect -->
