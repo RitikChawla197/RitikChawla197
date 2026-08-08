@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="378" height="260" viewBox="0 0 378 260">
+
+<style>
+  .name-row { font-family:'Courier New', Consolas, monospace; font-size:11px; fill:#39d353; white-space:pre; }
+  .title-text { font-family:'Courier New', Consolas, monospace; font-size:12px; fill:#6e7681; }
+  .footer-text { font-family:'Courier New', Consolas, monospace; font-size:10px; fill:#3c424b; }
+  .cursor { fill:#58a6ff; animation:blink2 1s steps(1) infinite; }
+  @keyframes blink2 { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+  @keyframes typeNameRow0{0%{opacity:0}0.0%{opacity:0}1.0%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow1{0%{opacity:0}4.58%{opacity:0}5.58%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow2{0%{opacity:0}9.17%{opacity:0}10.17%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow3{0%{opacity:0}13.75%{opacity:0}14.75%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow4{0%{opacity:0}18.33%{opacity:0}19.33%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow5{0%{opacity:0}22.92%{opacity:0}23.92%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow6{0%{opacity:0}27.5%{opacity:0}28.5%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow7{0%{opacity:0}32.08%{opacity:0}33.08%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow8{0%{opacity:0}36.67%{opacity:0}37.67%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow9{0%{opacity:0}41.25%{opacity:0}42.25%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow10{0%{opacity:0}45.83%{opacity:0}46.83%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow11{0%{opacity:0}50.42%{opacity:0}51.42%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}@keyframes typeNameRow12{0%{opacity:0}55.0%{opacity:0}56.0%{opacity:1}82.0%{opacity:1}88.0%{opacity:0}100%{opacity:0}}
+</style>
+
+<rect x="0" y="0" width="378" height="260" fill="#0d0f14" rx="8"/>
+<rect x="0" y="0" width="378" height="34" fill="#161920" rx="8"/>
+<rect x="0" y="26" width="378" height="8" fill="#161920"/>
+<line x1="0" y1="34" x2="378" y2="34" stroke="#282c34" stroke-width="1"/>
+<circle cx="20" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="17" r="6" fill="#27c93f"/>
+<text x="189" y="21" text-anchor="middle" class="title-text">RitikChawla197@github: ~/whoami.sh</text>
+<text x="24" y="64" class="name-row" style="animation:typeNameRow0 6.0s steps(1) infinite;">██████╗ ██╗████████╗██╗██╗  ██╗</text><text x="24" y="78" class="name-row" style="animation:typeNameRow1 6.0s steps(1) infinite;">██╔══██╗██║╚══██╔══╝██║██║ ██╔╝</text><text x="24" y="92" class="name-row" style="animation:typeNameRow2 6.0s steps(1) infinite;">██████╔╝██║   ██║   ██║█████╔╝ </text><text x="24" y="106" class="name-row" style="animation:typeNameRow3 6.0s steps(1) infinite;">██╔══██╗██║   ██║   ██║██╔═██╗ </text><text x="24" y="120" class="name-row" style="animation:typeNameRow4 6.0s steps(1) infinite;">██║  ██║██║   ██║   ██║██║  ██╗</text><text x="24" y="134" class="name-row" style="animation:typeNameRow5 6.0s steps(1) infinite;">╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝</text><text x="24" y="148" class="name-row" style="animation:typeNameRow6 6.0s steps(1) infinite;">                               </text><text x="24" y="162" class="name-row" style="animation:typeNameRow7 6.0s steps(1) infinite;"> ██████╗██╗  ██╗ █████╗ ██╗    ██╗██╗      █████╗ </text><text x="24" y="176" class="name-row" style="animation:typeNameRow8 6.0s steps(1) infinite;">██╔════╝██║  ██║██╔══██╗██║    ██║██║     ██╔══██╗</text><text x="24" y="190" class="name-row" style="animation:typeNameRow9 6.0s steps(1) infinite;">██║     ███████║███████║██║ █╗ ██║██║     ███████║</text><text x="24" y="204" class="name-row" style="animation:typeNameRow10 6.0s steps(1) infinite;">██║     ██╔══██║██╔══██║██║███╗██║██║     ██╔══██║</text><text x="24" y="218" class="name-row" style="animation:typeNameRow11 6.0s steps(1) infinite;">╚██████╗██║  ██║██║  ██║╚███╔███╔╝███████╗██║  ██║</text><text x="24" y="232" class="name-row" style="animation:typeNameRow12 6.0s steps(1) infinite;"> ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝</text>
+<text x="362" y="248" text-anchor="end" class="footer-text">github.com/RitikChawla197</text>
+<rect x="0.5" y="0.5" width="377" height="259" rx="8" fill="none" stroke="#282c34" stroke-width="1"/>
+</svg>
